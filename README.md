@@ -15,7 +15,7 @@ Task Manager is a simple command-line application written in Elixir for managing
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone git@github.com:ffugue/Elixir_project.git
    ```
 
 2. Change into the project directory:
