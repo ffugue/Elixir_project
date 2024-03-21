@@ -1,8 +1,8 @@
-# Mission
+## Contributers
 
-**TODO: Contributers:
 Helia AKhtarkavian 98170657
-Matin Moradi 98104488**
+
+AmirMahdi Daraei 9915431
 
 ## Installation
 
